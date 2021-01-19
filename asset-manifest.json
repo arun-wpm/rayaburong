@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rayaburong/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/rayaburong/static/js/main.1f5892c8.chunk.js",
+    "main.js.map": "/rayaburong/static/js/main.1f5892c8.chunk.js.map",
+    "runtime-main.js": "/rayaburong/static/js/runtime-main.86e75b44.js",
+    "runtime-main.js.map": "/rayaburong/static/js/runtime-main.86e75b44.js.map",
+    "static/js/2.b94015b9.chunk.js": "/rayaburong/static/js/2.b94015b9.chunk.js",
+    "static/js/2.b94015b9.chunk.js.map": "/rayaburong/static/js/2.b94015b9.chunk.js.map",
+    "static/js/3.9cc37965.chunk.js": "/rayaburong/static/js/3.9cc37965.chunk.js",
+    "static/js/3.9cc37965.chunk.js.map": "/rayaburong/static/js/3.9cc37965.chunk.js.map",
+    "index.html": "/rayaburong/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/rayaburong/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.b94015b9.chunk.js.LICENSE.txt": "/rayaburong/static/js/2.b94015b9.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/rayaburong/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86e75b44.js",
+    "static/js/2.b94015b9.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.1f5892c8.chunk.js"
+  ]
+}
